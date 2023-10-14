@@ -1,0 +1,10 @@
+br/com/vitornunes/todolist/user/UserController.class
+br/com/vitornunes/todolist/errors/ExceptionHandlerController.class
+br/com/vitornunes/todolist/user/IUserRepository.class
+br/com/vitornunes/todolist/task/TaskModel.class
+br/com/vitornunes/todolist/utils/Utils.class
+br/com/vitornunes/todolist/user/UserModel.class
+br/com/vitornunes/todolist/TodolistApplication.class
+br/com/vitornunes/todolist/task/ITaskRepository.class
+br/com/vitornunes/todolist/task/TaskController.class
+br/com/vitornunes/todolist/filter/FilterTaskAuth.class

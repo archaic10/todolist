@@ -1,0 +1,10 @@
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/TodolistApplication.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/filter/FilterTaskAuth.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/utils/Utils.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/task/TaskController.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/user/UserController.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/task/ITaskRepository.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/user/UserModel.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/user/IUserRepository.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/errors/ExceptionHandlerController.java
+/home/vitor/projetos/java/todolist/src/main/java/br/com/vitornunes/todolist/task/TaskModel.java
